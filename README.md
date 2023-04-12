@@ -7,4 +7,4 @@ This is a compact app to take any pdf and turn it into an Mp3 format. The app us
 4. The new MP3 will automatically be saved in the "Mp3s" folder 
 # Future Upgrade
 A future upgrade would be to move away from text to speech on the computer and use more sophisticated AI language processing models to achieve the same result
-#Enjoy!
+# Enjoy!
